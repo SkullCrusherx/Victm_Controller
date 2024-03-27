@@ -6,8 +6,9 @@ print(" (_____  )| |      |     __)  | | |  _____)  (___ ( |     __) ")
 print("       ) || |      | (\ (     | | | (            ) \| (\ ( ")
 print(" /\____) || (____/\| ) \ \____) (_| )      /\___/  /| ) \ \__ ")
 print(" \_______)(_______/|/   \__/\____/|/       \______/ |/   \__/ ")
+
 print("\n\t\t\t\t\t\t\t              scripted by -//sh4d0w")
+
 import os
-os.system("python3 server_tcp.py")
-                                                             
+os.system("python3 server_tcp.py")                                                             
 
